@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = ""
+name = "Ali Guweidhi"
+image = "/media/297929-berserk-guts-manga.jpg"
 email = ""
 +++
