@@ -7,7 +7,7 @@ image = "bild4.jpeg"
 +++
 ## Erfolgreiche Integration
 
-#### *Deniz Sevik, Ali Guweidhi, begleiten eine erfahrene Integrationsexpertin und dokumentieren ihre Arbeit. Wir lernen dabei wichtige Elemente erfolgreicher Integration kennen.*
+#### *Deniz Sevik und Ali Guweidhi, begleiten eine erfahrene Integrationsexpertin und dokumentieren ihre Arbeit. Wir lernen dabei wichtige Elemente erfolgreicher Integration kennen.*
 
 ![](bild4.jpeg "Vor der reformierten Kirche Bethlehems. (Bild: Ali Guweidhi)")
 
@@ -22,16 +22,13 @@ Trotz schrecklicher Erlebnisse während ihrer damaligen Flucht hatte Ahlam Ali d
 Wir wurden mit dem Interview fertig, sorgten die Aufnahmematerialien weg und unterhielten uns in Ahlams Büro weiter. Wir wurden mit Kaffee und Süssigkeiten bedient. Als die Rede im Interview mit Kirchen aufhörte, packte uns die Neugier und fragten wir Ahlam, wie sie am besten die reformierte Kirche beschreiben könnte.  Ihr Antwort war die Folgende.
 
 > «Menschen aus den verschiedensten Kulturen, Religionen und Ländern finden hier ihr Zuhause.» Ahlam Ali, Vermittlerin der arabischen Gesellschaft in Bern-West.
->
 
 ### Kirche Bethlehem, Haus der Kulturen
-
 
 Die reformierte Kirchgemeinde Bethlehem ist Heimat von engagierten Mitarbeitenden, Kirchgemeinderät:innen sowie vielen Freiwilligen in den unterschiedlichsten Projekten. Insbesondere die Quartierbewohner*innen liegen der Kirchengemeinde am Herzen, weshalb die Kirche tagtäglich für sie im Einsatz ist. Das Kirchgemeindehaus Bethlehem beherbergt Büros, Schulräume, das Café mondiaL sowie weitere Räume für unterschiedliche Menschen und deren Bedürfnisse. So bietet die Kirche eine breite Themen-Palette an interkulturellen Angeboten für verschiedenste Altersgruppen an. Bethlehem sei unter anderem deshalb ein Ort, wo sich die Welt trifft, meint Ahlam. Es war beeindruckend, dass sich in der Kirche eine Mischung aus Kulturen miteinander austauschen können. Für Migrant:innen gebe es viele Angebote wie zum Beispiel die interkulturellen Muttertreffen: Einmal im Monat, jeweils an einem Donnerstag, treffen sich Frauen zum Kennenlernen und Austauschen. Jedes Mal wird ein anderes Thema besprochen. Zum Beispiel Kindererziehung, Frauenrechte, Finanzen, Arbeit oder Ausbildung. **«Diese Treffen helfen den Müttern bzw. Frauen, sich über die Schweiz zu informieren und sich so besser integrieren zu können»**, betont Ahlam. Das Engagement der reformierten Kirche finden wir lobenswert. Die Kirche setzt ihren Glauben nicht nur in dem Dienst ihres Gottes, sondern auch in dem Unterstützen der Menschen. Teil des Angebots der reformierten Kirche sind schliesslich noch das Café mondiaL und die Infotime Bern, für die sich Ahlam Ali engagiert. 
 Als Ahlams Wecker klingelte war der Zeit für unser Gespräch zu Ende und Ahlam musste zu dem Laden gehen. Denn Ahlam hatte an diesem Tag ihre Verantwortung an das Café. Wir folgten ihr und begleiteten ihren Alltag weiter. 
 
 ### Café mondiaL, ein Laden mit fairen Produkten zu dem fairen Preis
-
 
 Café, claro Laden, Info-Point und Ort der Begegnung für viele Menschen. Das Café, wie auch der Laden, bietet Produkte aus gerechtem Handel zu fairen Preisen an. Das Sortiment des claro-Ladens reicht von hochwertigen Ölen über viele Kaffee- und Teesorten bis hin zu manchen Süssigkeiten und Artikeln des täglichen Bedarfs. Der Laden ist jeweils am Dienstag, Mittwoch, Donnerstag und Samstag geöffnet. Im Café arbeiten hauptsächlich Migrant:innen aus verschiedensten Ländern sowie einige wenige Schweizer:innen jeweils über den Mittag.
 
@@ -43,12 +40,9 @@ Eine Frau trat und wollte eine Mahlzeit haben. Die Frau hatte kein Geld dabei, w
 Im Laden haben Kunden zudem die Möglichkeit, für gute Zwecke zu spenden, indem sie bestimmte Produkte wie beispielsweise Kerzen einkaufen. Der Sozialdienst der Kirchgemeinde Bethlehem befindet sich gleich über dem Café. Daher sind dessen Angestellten Stammkund*innen des Cafés. So wird das Mittagessen im mondiaL zu einer Art Fusion zwischen dem ausländischen Koch oder der ausländische Köchin und den Schweizer Sozialarbeiter:innen.
 Ahlam hatte ihre Verantwortung gegenüber dem Laden erledigt. Als nächstes muss sie zurück zu der Infotim-Büro für der Führung ihre Beratungsstunden auf Arabisch. Im weg erzählte uns Ahlam, wie gut der Laden ihr unterstützte, sich in der schweizerischen Gemeinschaft einzufinden.
 
->
 >  «Das Café ist für mich wie eine Integrationsübung» Ahlam Ali, Vermittlerin der arabischen Gesellschaft in Bern-West.
 
 ![](bild1.jpeg "Ahlam bereitet das Mittagessen in dem Café für die Ladenbesuchende zu. (Bild: Deniz Sevik)")
-
-
 
 Ahlam Ali, Interviewpartnerin.   
 
@@ -56,18 +50,13 @@ Ahlam Ali kommt ursprünglich aus Syrien und hat das Flüchten erlebt. Sie ist 3
 
 ### Infotime Bern, Beratung auf die Muttersprache
 
-
 In dem Infotime-Büro beratet Ahlam die arabisch sprechenden Menschen jeweils am Dienstag in deren Muttersprache. Der Dienst von Infotime Bern ist kostenlos. Infotime Bern wurde vom Non-Profit-Verband Bernischer Gemeinden (VBG) gegründet und steht Migrant:innen der Region Bern-West zur Verfügung. Das VBG setzt sich seit 1967 zusammen mit der Bevölkerung und quartiernahen Organisationen für starke Nachbarschaften und mehr Lebensqualität in den Berner Quartieren ein. 
 **«Häufig sind es finanzielle Fragen»**, meinte Ahlam Ali, als wir sie gefragt hatten, welche Probleme denn am meisten besprochen werden. Vor allem ginge es darum, wie man beispielsweise **«Unterstützung für das Zahlen der vielen Rechnungen erhalten könnte. Natürlich gibt es noch andere Problemstellungen»**, besagte uns Ahlam und fügte hinzu, **«Beispielsweise die Suche nach einer Wohnung, das Schreiben von Bewerbungen oder das Ausfüllen von Formularen für Geflüchteten, Spitäler oder Sozialdienste»**. 
 Ausserdem begleitet sie Nichtdeutschsprechende auch ausserhalb ihrer Arbeitszeit zum Übersetzen. **«Flüchtlinge versuchen sich oft zu integrieren, wissen aber nicht wie»**, sagt Ahlam. Deshalb leistet sie oft auch Vernetzungsarbeit. In diesem Zusammenhang ist es Ahlams Aufgabe, die Migrant:innen die Tür zur schweizerischen Gesellschaft und Kultur zu öffnen, indem sie ihnen interkulturelle Aktivitäten oder Treffen empfehlt. 
 
 ![](bild3.jpeg "Flyer für den Infodienst auf verschiedene Sprachen. (Bild: Ali Guweidhi)")
 
-
-
-### 
 Unser neues Wissen
-
 
 Am Ende des Arbeitstages von Ahlam verabschiedeten wir uns von ihr und dankten wir ihr, dass sie uns erlaubte, mit ihr, eine erfahrene Person im Bereich der Integration, einen Nachmittag zu verbringen.
 An Ahlam Ali beeindruckt uns vor allem, dass sie sich als Flüchtling so gut integrieren gekonnt hat. So wie wir es sehen, ist sie eine wissende Integrationsexpertin. Sie ist in der schweizerischen Gesellschaft wahrgenommen und ist mittlerweile wertvoller Teil davon geworden. Ihre Erfahrungen und ihr Wissen teilt sie und hilft damit anderen Menschen, was für sie die Integration noch angeht. Obwohl wir den Integrationsprozess kennen, lernen wir durch unsere Arbeit und Dokumentation viel Neues über Ahlams unschätzbarer Funktion in der reformierten Kirche. Auch die vielfältigen Projekte der Kirche Bethlehems überzeugen uns. All die Projekte haben zum Ziel, Flüchtlinge in der schweizerischen Gesellschaft zu empfangen und Flüchtlinge Schritt für Schritt zu integrieren.
