@@ -9,7 +9,7 @@ image = "bild4.jpeg"
 
 #### *Deniz Sevik und Ali Guweidhi, begleiten eine erfahrene Integrationsexpertin und dokumentieren ihre Arbeit. Wir lernen dabei wichtige Elemente erfolgreicher Integration kennen.*
 
-![](bild4.jpeg "Vor der reformierten Kirche Bethlehems. (Bild: Ali Guweidhi)")
+![Vor der reformierten Kirche Bethlehems. (Bild: Ali Guweidhi)](bild4.jpeg "Vor der reformierten Kirche Bethlehems. (Bild: Ali Guweidhi)")
 
 Am Mittwochnachmittag, dem 26.10.2022 trafen wir in der reformierte Kirche Betlehems mit einer Person, die aus Syrien in die Schweiz geflüchtet hatte und es geschafft hatte, sich in der Gesellschaft zu einfinden und zu arbeiten. Es war Ahlam Ali. Ahlam Ali arbeitet seit 2018 bei «Infotime Bern» als Beraterin und Vermittlerin für arabisch sprechende Migrant: innen. Am Anfang waren wir in Ahlams Büro eingeladen. Dort setzten wir uns mit ihr auseinander und nahmen das Interview auf.
 
@@ -32,7 +32,7 @@ Als Ahlams Wecker klingelte war der Zeit für unser Gespräch zu Ende und Ahlam 
 
 Café, claro Laden, Info-Point und Ort der Begegnung für viele Menschen. Das Café, wie auch der Laden, bietet Produkte aus gerechtem Handel zu fairen Preisen an. Das Sortiment des claro-Ladens reicht von hochwertigen Ölen über viele Kaffee- und Teesorten bis hin zu manchen Süssigkeiten und Artikeln des täglichen Bedarfs. Der Laden ist jeweils am Dienstag, Mittwoch, Donnerstag und Samstag geöffnet. Im Café arbeiten hauptsächlich Migrant: innen aus verschiedensten Ländern sowie einige wenige Schweizer: innen jeweils über den Mittag.
 
-![](bild2-1-.jpeg "Der Laden bietet noch weitere günstige Gerichte und Spende Möglichkeiten. (Ali G)")
+![Der Laden bietet noch weitere günstige Gerichte und Spende Möglichkeiten. (Bild: Ali Guweidhi)](bild2-1-.jpeg "Der Laden bietet noch weitere günstige Gerichte und Spende Möglichkeiten. (Ali G)")
 
 Als wir in dem Laden angekommen waren, gab es schon ein Paar Kunden. Es war erstaunlich, denn die Preise waren billig und es hatte eine schöne Stimmung in dem Laden. Der Aussicht war auch wunderschön an diesem Tag, da das Wetter gut war.
 Ahlam Ali trägt ab und zu Verantwortung für das Café. Was das Café zu etwas Besonderem macht, ist es, dass die Gerichte meistens vegetarisch zubereitet werden und dass das Angebot von denjenigen zusammengestellt werden, die an den jeweiligen Tagen für das Café zuständig sind. **«Die Gerichte sind also von der jeweiligen Kultur der oder des Mitarbeitenden geprägt»**, meint Ahlam. Im Café herrscht Vertrauen gegenüber den Gästen. 
@@ -42,13 +42,9 @@ Ahlam hatte ihre Verantwortung gegenüber dem Laden erledigt. Als nächstes muss
 
 >  «Das Café ist für mich wie eine Integrationsübung» Ahlam Ali, Vermittlerin der arabischen Gesellschaft in Bern-West.
 
-![](bild1.jpeg "Ahlam bereitet das Mittagessen in dem Café für die Ladenbesuchende zu. (Bild: Deniz Sevik)")
+![Ahlam bereitet das Mittagessen in dem Café für die Ladenbesuchende zu. (Bild: Deniz Sevik)](bild1.jpeg)
 
-{{<box tittle="**Ahlam Ali, Interviewpartnerin">}}**
-
-Ahlam Ali kommt ursprünglich aus Syrien und hat das Flüchten erlebt. Sie ist 35 Jahre alt, verheiratet und hat zwei Kinder. Ahlam arbeitet bei Infotime Bern, einer Organisation, welche Beratung in den Muttersprachen anbietet. Dort begleitet sie und beratet arabisch sprechende Migrant*innen und führt ihnen zur Fachstelle. Dafür absolvierte sie die Ausbildung als interkulturelle Dolmetscherin. Ahlam arbeitet auch in dem Café mondiaL, wo sie traditionelle Gerichte zubereitet und mit anderen Migrant: innen regelmässig den Laden beaufsichtigen.
-
-{{</box>}}
+{{<box tittle="**Ahlam Ali, Interviewpartnerin">}}**                                                                                                   Ahlam Ali kommt ursprünglich aus Syrien und hat das Flüchten erlebt. Sie ist 35 Jahre alt, verheiratet und hat zwei Kinder. Ahlam arbeitet bei Infotime Bern, einer Organisation, welche Beratung in den Muttersprachen anbietet. Dort begleitet sie und beratet arabisch sprechende Migrant*innen und führt ihnen zur Fachstelle. Dafür absolvierte sie die Ausbildung als interkulturelle Dolmetscherin. Ahlam arbeitet auch in dem Café mondiaL, wo sie traditionelle Gerichte zubereitet und mit anderen Migrant: innen regelmässig den Laden beaufsichtigen. {{</box>}}
 
 ### Infotime Bern, Beratung auf die Muttersprache
 
@@ -56,15 +52,14 @@ In dem Infotime-Büro beratet Ahlam die arabisch sprechenden Menschen jeweils am
 **«Häufig sind es finanzielle Fragen»**, meinte Ahlam Ali, als wir sie gefragt hatten, welche Probleme denn am meisten besprochen werden. Vor allem ginge es darum, wie man beispielsweise **«Unterstützung für das Zahlen der vielen Rechnungen erhalten könnte. Natürlich gibt es noch andere Problemstellungen»**, besagte uns Ahlam und fügte hinzu, **«Beispielsweise die Suche nach einer Wohnung, das Schreiben von Bewerbungen oder das Ausfüllen von Formularen für Geflüchteten, Spitäler oder Sozialdienste»**. 
 Ausserdem begleitet sie Nichtdeutschsprechende auch ausserhalb ihrer Arbeitszeit zum Übersetzen. **«Flüchtlinge versuchen sich oft zu integrieren, wissen aber nicht wie»**, sagt Ahlam. Deshalb leistet sie oft auch Vernetzungsarbeit. In diesem Zusammenhang ist es Ahlams Aufgabe, die Migrant: innen die Tür zur schweizerischen Gesellschaft und Kultur zu öffnen, indem sie ihnen interkulturelle Aktivitäten oder Treffen empfehlt. 
 
-![](bild3.jpeg "Flyer für den Infodienst auf verschiedene Sprachen. (Bild: Ali Guweidhi)")
+![Flyer für den Infodienst auf verschiedene Sprachen. (Bild: Ali Guweidhi)](bild3.jpeg "Flyer für den Infodienst auf verschiedene Sprachen. (Bild: Ali Guweidhi)")
 
 ### Unser neues Wissen
 
 Am Ende des Arbeitstages von Ahlam verabschiedeten wir uns von ihr und dankten wir ihr, dass sie uns erlaubte, mit ihr, eine erfahrene Person im Bereich der Integration, einen Nachmittag zu verbringen.
 An Ahlam Ali beeindruckt uns vor allem, dass sie sich als Flüchtling so gut integrieren gekonnt hat. So wie wir es sehen, ist sie eine wissende Integrationsexpertin. Sie ist in der schweizerischen Gesellschaft wahrgenommen und ist mittlerweile wertvoller Teil davon geworden. Ihre Erfahrungen und ihr Wissen teilt sie und hilft damit anderen Menschen, was für sie die Integration noch angeht. Obwohl wir den Integrationsprozess kennen, lernen wir durch unsere Arbeit und Dokumentation viel Neues über Ahlams unschätzbarer Funktion in der reformierten Kirche. Auch die vielfältigen Projekte der Kirche Bethlehems überzeugen uns. All die Projekte haben zum Ziel, Flüchtlinge in der schweizerischen Gesellschaft zu empfangen und Flüchtlinge Schritt für Schritt zu integrieren.
 
-{{<box tittle="**Schweizerischer Integrationspolitik">}}**
-Die Schweizer Integrationspolitik richtet sich am Prinzip «Fördern und Fordern» aus. Mit «Fordern» wird die Selbstverantwortung der Zugewanderten angesprochen. Die ausländerrechtlichen Erfordernisse legen fest, was von ihnen erwartet wird und mit welchen Folgen sie gegebenenfalls rechnen müssen, wenn sie diese Erfordernisse nicht erfüllen. Das «Fördern» umfasst alle Massnahmen, welche die Integration der Migrationsbevölkerung unterstützen.
+{{<box tittle="**Schweizerischer Integrationspolitik">}}**                                                                                         Die Schweizer Integrationspolitik richtet sich am Prinzip «Fördern und Fordern» aus. Mit «Fordern» wird die Selbstverantwortung der Zugewanderten angesprochen. Die ausländerrechtlichen Erfordernisse legen fest, was von ihnen erwartet wird und mit welchen Folgen sie gegebenenfalls rechnen müssen, wenn sie diese Erfordernisse nicht erfüllen. Das «Fördern» umfasst alle Massnahmen, welche die Integration der Migrationsbevölkerung unterstützen.
 
 ![](screenshot-2022-12-01-235809.png)
 
