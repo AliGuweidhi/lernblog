@@ -44,7 +44,11 @@ Ahlam hatte ihre Verantwortung gegenüber dem Laden erledigt. Als nächstes muss
 
 ![Ahlam bereitet das Mittagessen in dem Café für die Ladenbesuchende zu. (Bild: Deniz Sevik)](bild1.jpeg)
 
-{{<box tittle="**Ahlam Ali, Interviewpartnerin">}}**                                                                                                   Ahlam Ali kommt ursprünglich aus Syrien und hat das Flüchten erlebt. Sie ist 35 Jahre alt, verheiratet und hat zwei Kinder. Ahlam arbeitet bei Infotime Bern, einer Organisation, welche Beratung in den Muttersprachen anbietet. Dort begleitet sie und beratet arabisch sprechende Migrant*innen und führt ihnen zur Fachstelle. Dafür absolvierte sie die Ausbildung als interkulturelle Dolmetscherin. Ahlam arbeitet auch in dem Café mondiaL, wo sie traditionelle Gerichte zubereitet und mit anderen Migrant: innen regelmässig den Laden beaufsichtigen. {{</box>}}
+`{{<box title="Ahlam Ali, Interviewpartnerin">}}`\
+Ahlam Ali kommt ursprünglich aus Syrien und hat das Flüchten erlebt. Sie ist 35 Jahre alt, verheiratet und hat zwei Kinder. Ahlam arbeitet bei Infotime Bern, einer Organisation, welche Beratung in den Muttersprachen anbietet. Dort begleitet sie und beratet arabisch sprechende Migrant*innen und führt ihnen zur Fachstelle. Dafür absolvierte sie die Ausbildung als interkulturelle Dolmetscherin. Ahlam arbeitet auch in dem Café mondiaL, wo sie traditionelle Gerichte zubereitet und mit anderen Migrant: innen regelmässig den Laden beaufsichtigen. \
+`{{</box>}}`
+
+
 
 ### Infotime Bern, Beratung auf die Muttersprache
 
@@ -59,8 +63,9 @@ Ausserdem begleitet sie Nichtdeutschsprechende auch ausserhalb ihrer Arbeitszeit
 Am Ende des Arbeitstages von Ahlam verabschiedeten wir uns von ihr und dankten wir ihr, dass sie uns erlaubte, mit ihr, eine erfahrene Person im Bereich der Integration, einen Nachmittag zu verbringen.
 An Ahlam Ali beeindruckt uns vor allem, dass sie sich als Flüchtling so gut integrieren gekonnt hat. So wie wir es sehen, ist sie eine wissende Integrationsexpertin. Sie ist in der schweizerischen Gesellschaft wahrgenommen und ist mittlerweile wertvoller Teil davon geworden. Ihre Erfahrungen und ihr Wissen teilt sie und hilft damit anderen Menschen, was für sie die Integration noch angeht. Obwohl wir den Integrationsprozess kennen, lernen wir durch unsere Arbeit und Dokumentation viel Neues über Ahlams unschätzbarer Funktion in der reformierten Kirche. Auch die vielfältigen Projekte der Kirche Bethlehems überzeugen uns. All die Projekte haben zum Ziel, Flüchtlinge in der schweizerischen Gesellschaft zu empfangen und Flüchtlinge Schritt für Schritt zu integrieren.
 
-{{<box tittle="**Schweizerischer Integrationspolitik">}}**                                                                                         Die Schweizer Integrationspolitik richtet sich am Prinzip «Fördern und Fordern» aus. Mit «Fordern» wird die Selbstverantwortung der Zugewanderten angesprochen. Die ausländerrechtlichen Erfordernisse legen fest, was von ihnen erwartet wird und mit welchen Folgen sie gegebenenfalls rechnen müssen, wenn sie diese Erfordernisse nicht erfüllen. Das «Fördern» umfasst alle Massnahmen, welche die Integration der Migrationsbevölkerung unterstützen.
+`{{<box title="Schweizerischer Integrationspolitik">}}`\
+Die Schweizer Integrationspolitik richtet sich am Prinzip «Fördern und Fordern» aus. Mit «Fordern» wird die Selbstverantwortung der Zugewanderten angesprochen. Die ausländerrechtlichen Erfordernisse legen fest, was von ihnen erwartet wird und mit welchen Folgen sie gegebenenfalls rechnen müssen, wenn sie diese Erfordernisse nicht erfüllen. Das «Fördern» umfasst alle Massnahmen, welche die Integration der Migrationsbevölkerung unterstützen.
 
 ![](screenshot-2022-12-01-235809.png)
 
-{{</box>}}
+`{{</box>}}`
