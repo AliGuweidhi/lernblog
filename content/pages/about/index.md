@@ -6,8 +6,6 @@ description = ""
 +++
 ![](whatsapp-image-2022-12-02-at-00.15.41.jpeg)
 
-## My Name
+## Ali Guweidhi
 
-mail@example.org
-
-Here should be some info about me...
+aliabmedbel@gmail.com
