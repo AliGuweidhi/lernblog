@@ -9,7 +9,7 @@ image = "bild4.jpeg"
 
 ![Vor der reformierten Kirche Bethlehems. (Bild: Ali Guweidhi)](bild4.jpeg "Vor der reformierten Kirche Bethlehems. (Bild: Ali Guweidhi)")
 
-Am Mittwochnachmittag, dem 26.10.2022 trafen wir in der reformierte Kirche Betlehems mit einer Person, die aus Syrien in die Schweiz geflüchtet hatte und es geschafft hatte, sich in der Gesellschaft zu einfinden und zu arbeiten. Es war Ahlam Ali. Ahlam Ali arbeitet seit 2018 bei «Infotime Bern» als Beraterin und Vermittlerin für arabisch sprechende Migrant: innen. Am Anfang waren wir in Ahlams Büro eingeladen. Dort setzten wir uns mit ihr auseinander und nahmen das Interview auf.
+Am Mittwochnachmittag, dem 26.10.2022 trafen wir in der reformierte Kirche Betlehems mit einer Person, die aus Syrien in die Schweiz geflüchtet hatte und es geschafft hatte, sich in der Gesellschaft einzufinden und zu arbeiten. Es war Ahlam Ali. Ahlam Ali arbeitet seit 2018 bei «Infotime Bern» als Beraterin und Vermittlerin für arabisch sprechende Migrant: innen. Am Anfang waren wir in Ahlams Büro eingeladen. Dort setzten wir uns mit ihr auseinander und nahmen das Interview auf.
 
 ### Interview mit eine Integrationsexpertin
 
