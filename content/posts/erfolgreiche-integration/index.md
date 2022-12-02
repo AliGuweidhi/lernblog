@@ -5,8 +5,6 @@ draft = false
 pinned = false
 image = "bild4.jpeg"
 +++
-## Erfolgreiche Integration
-
 #### *Deniz Sevik und Ali Guweidhi, begleiten eine erfahrene Integrationsexpertin und dokumentieren ihre Arbeit. Wir lernen dabei wichtige Elemente einer erfolgreicher Integration kennen.*
 
 ![Vor der reformierten Kirche Bethlehems. (Bild: Ali Guweidhi)](bild4.jpeg "Vor der reformierten Kirche Bethlehems. (Bild: Ali Guweidhi)")
@@ -47,8 +45,6 @@ Ahlam hatte ihre Verantwortung gegenüber dem Laden erledigt. Als nächstes muss
 `{{<box title="Ahlam Ali, Interviewpartnerin">}}`\
 Ahlam Ali kommt ursprünglich aus Syrien und hat das Flüchten erlebt. Sie ist 35 Jahre alt, verheiratet und hat zwei Kinder. Ahlam arbeitet bei Infotime Bern, einer Organisation, welche Beratung in den Muttersprachen anbietet. Dort begleitet sie und beratet arabisch sprechende Migrant*innen und führt ihnen zur Fachstelle. Dafür absolvierte sie die Ausbildung als interkulturelle Dolmetscherin. Ahlam arbeitet auch in dem Café mondiaL, wo sie traditionelle Gerichte zubereitet und mit anderen Migrant: innen regelmässig den Laden beaufsichtigen. \
 `{{</box>}}`
-
-
 
 ### Infotime Bern, Beratung auf die Muttersprache
 
