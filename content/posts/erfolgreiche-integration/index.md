@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "bild4.jpeg"
 +++
-#### *Deniz Sevik und Ali Guweidhi, begleiten eine erfahrene Integrationsexpertin und dokumentieren ihre Arbeit. Wir lernen dabei wichtige Elemente einer erfolgreicher Integration kennen.*
+#### *Deniz Sevik und Ali Guweidhi begleiten eine erfahrene Integrationsexpertin und dokumentieren ihre Arbeit. Wir lernen dabei wichtige Elemente einer erfolgreicher Integration kennen.*
 
 ![Vor der reformierten Kirche Bethlehems. (Bild: Ali Guweidhi)](bild4.jpeg "Vor der reformierten Kirche Bethlehems. (Bild: Ali Guweidhi)")
 
