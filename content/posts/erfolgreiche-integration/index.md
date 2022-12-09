@@ -1,6 +1,6 @@
 +++
 title = "Erfolgreiche Integration"
-date = "2022-12-01"
+date = "2022-12-09"
 draft = false
 pinned = false
 tags = ["#Deutsch#Reportage"]
